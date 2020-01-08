@@ -1,9 +1,8 @@
 # Blackjack
-Title: Blackjack
-
-Description: This is a console based blackjack game.
-Author: Hans Wang
-Date: November 6th, 2018
+Title: Blackjack<br>
+Description: This is a console based blackjack game.<br>
+Author: Hans Wang<br>
+Date: November 6th, 2018<br>
 
 Instructions to play:
 1. Run BlackjackTest.java in a Java IDE.
